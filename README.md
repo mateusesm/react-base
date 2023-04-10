@@ -1,1 +1,1 @@
-### Base para projetos React desenvolvidos durante curso
+### Base para projetos React desenvolvidos durante curso de JavaScript
